@@ -1,0 +1,10 @@
+numpy
+opencv-python
+scipy
+matplotlib
+Pillow
+scikit-image
+scikit-learn
+pyyaml
+open3d
+glob2
